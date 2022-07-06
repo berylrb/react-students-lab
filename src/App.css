@@ -6,7 +6,34 @@ html, body {
   align-items: center;
 }
 
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .student-info {
-  border: 2px solid rgba(195, 218, 199, .5);
-  height: 80vh;
+  border: 2px solid black;
+  height: 30%;
+  width: 90%;
+  padding: 20px;
+}
+
+.score-card {
+  border: 2px solid black;
+  width: 20%;
+  height: 40%;
+}
+
+.student-bio {
+  height: 30%;
+  width: 80%;
+  overflow: scroll;
 }
