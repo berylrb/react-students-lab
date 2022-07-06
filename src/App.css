@@ -5,3 +5,8 @@ html, body {
   justify-content: center;
   align-items: center;
 }
+
+.student-info {
+  border: 2px solid rgba(195, 218, 199, .5);
+  height: 80vh;
+}
