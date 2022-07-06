@@ -67,7 +67,7 @@ const students = [
 
   return (
     <div className="App">
-      <StudentList />
+      <StudentList students={students}/>
     </div>
   );
 }
