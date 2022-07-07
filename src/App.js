@@ -6,7 +6,7 @@ function App() {
 const students = [
   {
     name: 'Cait Yomorta',
-    bio: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus placeat nostrum explicabo? Voluptatibus expedita saepe officia optio, commodi totam ratione laudantium ipsum porro molestias, quasi nulla minus vitae laboriosam corrupti Delectus inventore explicabo est odit incidunt rem a recusandae eum pariatur. Aperiam doloremque blanditiis harum voluptate animi fugit beatae asperiores quo, dignissimos sed illum veniam eum accusantium nulla quod voluptatum',
+    bio: "Cait, a 23-year old who loves tea, is afraid of pie. Her fiance cooks romantic dinners for them, and Cait doesn't complain even though they aren't anything special-- just dinner at home. She is recently annoyed that she can't announce their secret long distance relationship of 9 years because she is afraid of pie, and pie is central to celebrations in India.",
     scores: [
       {
         date: '2018-02-08',
@@ -24,7 +24,7 @@ const students = [
   },
   {
     name: 'Holly Baird',
-    bio: 'Eum molestiae explicabo deserunt, maiores quod eaque omnis tenetur vero ducimus, magnam autem! Quia facere quaerat eum repudiandae dolorum eligendi iure quae. Eos id possimus accusantium, earum animi modi hic.',
+    bio: "Holly often gets emails proclaiming she isn't human from her phone's assistant. Now, she must report to the Ministry of Real Life to show mandatory signs of living, and many people there find her irksome and bad-smelling.",
     scores: [
       {
         date: '2018-12-14',
@@ -46,7 +46,7 @@ const students = [
   },
   {
     name: 'Wes Mungia',
-    bio: 'Repudiandae veritatis recusandae quidem tenetur impedit, numquam incidunt enim, adipisci id cupiditate asperiores nam perferendis. Facere odit laborum ipsum autem repellendus natus eius doloremque ullam perferendis. Enim repellendus ut veniam?',
+    bio: "Wes has the ability to use his brain to control gravity and space. Recently, he received an invitation to run for the US Olympic track team. Curious about who invited him, Wes investigated and learned it was Snoop Dogg, a man from his past. He accepted the invitation and went head-to-head with his nemesis: the talented Proctor. He became the champion of the 50 meter dash with pro agility and experienced the old human feeling of getting high on victory and joy. Wes's transformation is comparable to heros like Godzilla or The Hulk in terms of physique, strength and abilities; they emphasize strength while preserving humility.",
     scores: [
       {
         date: '2018-10-11',
